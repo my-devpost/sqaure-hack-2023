@@ -44,12 +44,12 @@ We learned the Invoice API, Apps Script and some Google Sheet's shortcuts.
 
 ## Google Sheet link
 
-[Invoce Tracker V2 Google Sheet](https://docs.google.com/spreadsheets/d/1bYZGSWq5RLfOHqzw1tMutD0ZjtAWigRnao2rvYrR6Qk/edit?usp=share_link){:target="_blank"}
+[Invoce Tracker V2 Google Sheet](https://docs.google.com/spreadsheets/d/1bYZGSWq5RLfOHqzw1tMutD0ZjtAWigRnao2rvYrR6Qk/edit?usp=share_link)
 
 
 ## YouTube demo link
 
-[Demo link]: (https://youtu.be/33n5qY9YyVY)
+[Demo link](https://youtu.be/33n5qY9YyVY)
 
 ## getSquareInvoice() functions
 
