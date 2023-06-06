@@ -38,8 +38,8 @@ We learned the Invoice API, Apps Script and some Google Sheet's shortcuts.
 
 ## What's next for Square + Invoice Tracker
 
-Add Square Estimate and convert estimates to invoices.
-Send reminders from Invoice Tracker.
+1. Add Square Estimate and convert estimates to invoices.
+2. Send reminders from Invoice Tracker.
 
 
 ## getSquareInvoice() functions
