@@ -42,6 +42,14 @@ We learned the Invoice API, Apps Script and some Google Sheet's shortcuts.
 2. Send reminders from Invoice Tracker.
 
 
+## Google Sheet link
+
+https://docs.google.com/spreadsheets/d/1bYZGSWq5RLfOHqzw1tMutD0ZjtAWigRnao2rvYrR6Qk/edit?usp=share_link
+
+## YouTube demo link
+
+https://youtu.be/33n5qY9YyVY
+
 ## getSquareInvoice() functions
 
 ```
